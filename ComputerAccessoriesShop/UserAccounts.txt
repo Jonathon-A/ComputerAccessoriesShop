@@ -1,0 +1,4 @@
+101, user1, Daniel, 12, LE11 3TU, Loughborough, admin
+102, user2, Fen, 14, E20 3BS, London, customer
+103, user3, Emma, 100, BN1 3XP, Brighton, customer
+104, user4, Bowen, 57, PA3 2SW, Glasgow, customer
